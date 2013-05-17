@@ -1,0 +1,21 @@
+{
+  "name": "grunt-cmd-text",
+  "version": "0.1.0",
+  "description": "Convert text file to cmd module so that it can be required by cmd loaders",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/ddliu/grunt-cmd-text"
+  },
+  "keywords": [
+    "gruntplugin"
+  ],
+  "author": "dong",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.1"
+  }
+}
